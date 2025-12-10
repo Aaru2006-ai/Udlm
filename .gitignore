@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+.venv/
+env/
+venv/
+
+# FastAPI / env
+.env
+
+# Node / React
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+
+# Misc
+.DS_Store
+.idea/
+.vscode/
+
